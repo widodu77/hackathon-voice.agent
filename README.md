@@ -1,4 +1,4 @@
-This is the prokect i worked on during the Kryptosphere / Utopia Hackathon (partnered with nvidia, mistralai, google etc etc)
+This is the project i worked on during the Kryptosphere / Utopia Hackathon (partnered with nvidia, mistralai, google etc etc)
 
 it's a ai voice agent, as its main tech i used pipcat, pipcat-ai[daily], openai, elevenlabs ad Fastapi 
 
